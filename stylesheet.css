@@ -1,0 +1,42 @@
+div.calculator {
+	width: min-content;
+	margin: 10% auto auto auto;
+	border: dashed #000000 2px;
+}
+
+div.components {
+	margin: 15px;
+}
+
+div.screenone {
+	height: 30px;
+	background-color: #a9c266;
+	margin: 0px;
+	padding: 5px;
+	border: dashed #000000 1px;
+}
+
+div.screentwo {
+	height: 20px;
+	font-size: 10px;
+	margin: 0px;
+	background-color: #a9c266;
+	margin: 0px;
+	padding: 3px;
+	border: dashed #000000 1px;
+}
+
+div.buttons {
+	height: 75%;
+	margin: 0px;
+	padding: 5px;
+	border: dashed #000000 2px;
+}
+
+div.button-row {
+	margin: 5px;
+}
+
+button {
+	width: 57px;
+}
